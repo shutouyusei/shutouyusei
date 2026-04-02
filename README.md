@@ -66,6 +66,11 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shutouyusei&theme=default" />
 </p>
 
+<p>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shutouyusei&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shutouyusei&theme=default&utcOffset=9" />
+</p>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="100%">
