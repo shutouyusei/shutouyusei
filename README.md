@@ -4,11 +4,11 @@
 
 <br>
 
-| | |
-|---|---|
-| 🎓 | M1 at Kyushu University, Japan |
-| 🤖 | Researching robust robot AI through imitation & reinforcement learning |
-| 🔬 | Interests: AGI / Robotics / Imitation Learning / Reinforcement Learning |
+🎓 **M1 at Kyushu University, Japan**
+
+🤖 Researching robust robot AI through imitation & reinforcement learning
+
+🔬 AGI / Robotics / Imitation Learning / Reinforcement Learning
 
 </div>
 
