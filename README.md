@@ -10,6 +10,13 @@
 
 🔬 AGI / Robotics / Imitation Learning / Reinforcement Learning
 
+<br>
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syutou.yusei.061@s.kyushu-u.ac.jp)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E5%84%AA%E8%AA%A0-%E9%A6%96%E8%97%A4-41a4663bb/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shutoyusei54982)
+[![Lab](https://img.shields.io/badge/-Lab_Website-333?style=flat&logo=google-scholar&logoColor=white)](https://lis.inf.kyushu-u.ac.jp/)
+
 </div>
 
 ---
