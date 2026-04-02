@@ -18,13 +18,11 @@
 
 ## GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com?user=shutouyusei&theme=default&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shutouyusei&theme=default)
+
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shutouyusei&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shutouyusei&layout=compact&theme=default&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shutouyusei&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shutouyusei&theme=default" />
 </p>
-
----
-
-## Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shutouyusei&theme=minimal&hide_border=true)
