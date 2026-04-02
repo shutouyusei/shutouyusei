@@ -46,6 +46,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
