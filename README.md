@@ -14,7 +14,10 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=shutouyusei&theme=flat&no-frame=true&no-bg=true&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=shutouyusei&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+<!-- If the above doesn't load, the backup URL below can be used -->
+<!-- ![Trophy](https://github-trophies.vercel.app/?username=shutouyusei&theme=flat&no-frame=true&no-bg=true&column=7) -->
 
 </div>
 
