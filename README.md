@@ -2,9 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi%2C+I'm+Yusei+Shuto+%F0%9F%91%8B;Robotics+%7C+Imitation+Learning+%7C+ML" alt="Typing SVG" />
 
-🎓 M1 at Kyushu University, Japan
-🤖 Researching robust robot AI through imitation & reinforcement learning
-🔬 Interests: AGI / Robotics / Imitation Learning / Reinforcement Learning
+<br>
+
+| | |
+|---|---|
+| 🎓 | M1 at Kyushu University, Japan |
+| 🤖 | Researching robust robot AI through imitation & reinforcement learning |
+| 🔬 | Interests: AGI / Robotics / Imitation Learning / Reinforcement Learning |
 
 </div>
 
