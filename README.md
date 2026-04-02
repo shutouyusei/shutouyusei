@@ -21,6 +21,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=shutouyusei&theme=flat&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy">
+</a>
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
